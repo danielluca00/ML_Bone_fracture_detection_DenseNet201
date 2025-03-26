@@ -1,0 +1,6 @@
+Kagglehub
+tensorflow
+scikit-learn
+Pillow-11.1.0
+pandas
+seaborn
